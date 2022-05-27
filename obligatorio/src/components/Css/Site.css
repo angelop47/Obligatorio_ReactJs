@@ -1,0 +1,23 @@
+@media screen and (max-width: 10000px) {
+  .card-site {
+    width: 40%;
+  }
+  }
+
+@media screen and (max-width: 1300px) {
+  .card-site {
+    width: 50%;
+  }
+  }
+
+  @media screen and (max-width: 900px) {
+    .card-site {
+      width: 70%;
+    }
+    }
+
+    @media screen and (max-width: 600px) {
+      .card-site {
+        width: 80%;
+      }
+      }
